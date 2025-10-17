@@ -44,7 +44,7 @@ function Tableta() {
     <div
       style={{
         padding: "20px",
-        backgroundColor: "#e9c56a84",
+        backgroundColor: "#1e2a38ff",
         fontFamily: "'Press Start 2P', cursive",
         minHeight: "100vh",
       }}
